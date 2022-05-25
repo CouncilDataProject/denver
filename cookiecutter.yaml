@@ -1,0 +1,12 @@
+default_context:
+    municipality: "Denver"
+    governing_body_type: "city council"
+    municipality_slug: "denver"
+    python_municipality_slug: "denver"
+    infrastructure_slug: "cdp-denver-962aefef"
+    maintainer_or_org_full_name: "JacksonMaxfield"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "denver"
+    hosting_github_url: "https://github.com/CouncilDataProject/denver"
+    hosting_web_app_address: "https://councildataproject.github.io/denver"
+    firestore_region: "us-central"
