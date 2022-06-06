@@ -1,0 +1,2 @@
+(this["webpackJsonpcdp-denver"]=this["webpackJsonpcdp-denver"]||[]).push([[0],{200:function(e,n){},88:function(e,n,i){"use strict";i.r(n);i(0);var t=i(25),c=i.n(t),o=i(62),p=(i(214),i(53));c.a.render(Object(p.jsx)("div",{children:Object(p.jsx)(o.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-denver-962aefef"},settings:{}},municipality:{name:"Denver",footerLinksSections:[]}},children:Object(p.jsx)(o.App,{})})}),document.getElementById("root"))}},[[88,1,2]]]);
+//# sourceMappingURL=main.9f3a21c0.chunk.js.map
