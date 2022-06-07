@@ -1,5 +1,6 @@
 default_context:
     municipality: "Denver"
+    iana_timezone: "America/Denver"
     governing_body_type: "city council"
     municipality_slug: "denver"
     python_municipality_slug: "denver"
