@@ -4,16 +4,16 @@
     "main.js.map": "/denver/static/js/main.67fb09a0.chunk.js.map",
     "runtime-main.js": "/denver/static/js/runtime-main.cdea09ed.js",
     "runtime-main.js.map": "/denver/static/js/runtime-main.cdea09ed.js.map",
-    "static/css/2.28feb4ba.chunk.css": "/denver/static/css/2.28feb4ba.chunk.css",
+    "static/css/2.5082ff89.chunk.css": "/denver/static/css/2.5082ff89.chunk.css",
     "static/js/2.03d870ac.chunk.js": "/denver/static/js/2.03d870ac.chunk.js",
     "static/js/2.03d870ac.chunk.js.map": "/denver/static/js/2.03d870ac.chunk.js.map",
     "index.html": "/denver/index.html",
-    "static/css/2.28feb4ba.chunk.css.map": "/denver/static/css/2.28feb4ba.chunk.css.map",
+    "static/css/2.5082ff89.chunk.css.map": "/denver/static/css/2.5082ff89.chunk.css.map",
     "static/js/2.03d870ac.chunk.js.LICENSE.txt": "/denver/static/js/2.03d870ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cdea09ed.js",
-    "static/css/2.28feb4ba.chunk.css",
+    "static/css/2.5082ff89.chunk.css",
     "static/js/2.03d870ac.chunk.js",
     "static/js/main.67fb09a0.chunk.js"
   ]
